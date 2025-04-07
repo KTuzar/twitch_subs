@@ -15,3 +15,4 @@ This project analyzes Twitch subscriber data to visualize trends and distributio
 
 ## Example Output
 ![Example Output](./example_outputs/subs_by_type_bar.png)
+![Example Output](./example_outputs/subscription_tiers_bar.png)
